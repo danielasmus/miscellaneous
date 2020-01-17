@@ -1,4 +1,4 @@
-Collection of miscallaneous little helper routines for astrophysics
+Collection of miscellaneous little helper routines for astrophysics
 
 Written in Python 3 (might not run in Python 2)
 
